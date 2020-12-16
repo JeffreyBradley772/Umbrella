@@ -1,2 +1,2 @@
 # Umbrella
-Practice with Weather APIs to tell weather an umbrella is needed in a city
+Practice with Weather API to tell weather an umbrella is needed in a city
